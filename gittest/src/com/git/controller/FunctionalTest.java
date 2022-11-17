@@ -1,19 +1,11 @@
-package com.git.controller;
+package com.git.run;
 
-public class FunctionalTest {
-	public void printStr() {
-		System.out.println("실행");
-		
-		int a=10;
-		String test="송현우";
-		System.out.println(a+test);
-		
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Git!!");
 		
 
-		System.out.println("안녕하세요~ 오늘은 git입니다.");
-		
-		String title="내용";
-		System.out.println(title+"이건 어떻게 수정?");
 	}
 
 }
