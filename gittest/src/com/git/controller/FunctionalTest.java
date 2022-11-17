@@ -5,8 +5,8 @@ public class FunctionalTest {
 		System.out.println("실행");
 		
 		int a=10;
-		int b=20;
-		System.out.println(a+b);
+		String test="송현우";
+		System.out.println(a+test);
 		
 	}
 
