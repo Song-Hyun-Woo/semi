@@ -5,13 +5,11 @@ package com.git.run;
 		public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 				
-		
 		int a=10;
 		String test="송현우";
 		System.out.println(a+test);
 		
 		
-
 		System.out.println("안녕하세요~ 오늘은 git입니다.");
 		
 		String title="내용";
