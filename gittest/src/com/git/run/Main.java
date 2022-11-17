@@ -1,8 +1,10 @@
-package com.git.controller;
+package com.git.run;
 
-public class FunctionalTest {
-	public void printStr() {
-		System.out.println("실행");
+	public class Main {
+
+		public static void main(String[] args) {
+		System.out.println("Hello Git!!");
+				
 		
 		int a=10;
 		String test="송현우";
